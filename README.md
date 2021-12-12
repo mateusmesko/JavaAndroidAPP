@@ -4,4 +4,4 @@
 
 teste simples de componentes.
 
-## Realizado testes em android
+## Realizado testes em android celular

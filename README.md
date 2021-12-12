@@ -2,4 +2,4 @@
 
 ### Mover para pasta SRC
 
-teste simples 
+teste simples de componentes.
